@@ -1,0 +1,27 @@
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\bin\Debug\PsyTest.exe.config
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\bin\Debug\PsyTest.exe
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\bin\Debug\PsyTest.pdb
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.csprojResolveAssemblyReference.cache
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.Form1.resources
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.Properties.Resources.resources
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.csproj.GenerateResource.Cache
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.exe
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.pdb
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.Authorization.resources
+c:\users\pvrvznt\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.Registration.resources
+C:\Users\PVRVZNT\documents\visual studio 2012\Projects\PsyTest\PsyTest\obj\Debug\PsyTest.AdminWin.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\bin\Debug\PsyTest.exe.config
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.exe
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.pdb
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.csprojResolveAssemblyReference.cache
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.AdminWin.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.Authorization.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.Form1.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.Properties.Resources.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.Registration.resources
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.csproj.GenerateResource.Cache
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\bin\Debug\PsyTest.exe
+C:\Users\epozdnkv\Desktop\Desktop\PsyTest\PsyTest\bin\Debug\PsyTest.pdb
+E:\Учеба\Бакалавриат\4-ый курс\Диплом\Диплом\Desktop\PsyTest\PsyTest\bin\Debug\PsyTest.exe.config
+E:\Учеба\Бакалавриат\4-ый курс\Диплом\Диплом\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.exe
+E:\Учеба\Бакалавриат\4-ый курс\Диплом\Диплом\Desktop\PsyTest\PsyTest\obj\Debug\PsyTest.pdb
